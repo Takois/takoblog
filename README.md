@@ -1,5 +1,4 @@
 # takoblog
-amatör
 
 basic blog website coded with python flask and HTML5.
 
