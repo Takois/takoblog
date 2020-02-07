@@ -2,4 +2,5 @@
 amatör
 
 basic blog website coded with python flask and HTML5.
-(you need SQLite for database)
+
+Also you need SQLite for database,i use DB Browser for GUI
